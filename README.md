@@ -14,4 +14,5 @@ During withdrawal, system will best draw conclusions from the graphs which will 
 Advantages of this blood bank system:
 
 •	Encourages blood donors to donate as the system tells every necessary detail they need to know.
+
 •	Helps people find blood donors in times of need and emergency.
