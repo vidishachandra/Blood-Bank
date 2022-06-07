@@ -1,6 +1,6 @@
 # Blood-Bank
 
-Emergencies occur every minute. For each patient requiring blood, it is an emergency where they could have major setbacks if it is not available. A blood donation may be even more valuable than you realize. A single donation can help one or more patients. Every year India requires 40 million units of 250cc blood, out of which only a meagre 500,000 units of blood are available. The system software we have created is a Blood Bank System which helps us in managing various blood bank operations effectively.  
+Emergencies occur every minute. For each patient requiring blood, it is an emergency where they could have major setbacks if it is unavailable. A blood donation may be even more valuable than you realize. Every year India requires 40 million units of 250cc blood, out of which only a meagre 500,000 units of blood are available. The system software we have created is a Blood Bank System which helps us in managing various blood bank operations effectively.  
 
 The project consists of a central repository database containing various blood deposits which are Recipient safe. The system displays the amount of blood available for user and the details associated with it like i.e. procedure and Recipient safe policies. It also gives the user his own dashboard where he can look at other things available in the menu. The database includes details of the user like name, blood type, date of storage etc. which helps us in maintaining and monitoring the blood deposits.
 
